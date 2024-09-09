@@ -21,7 +21,7 @@ const tokens = [
 
 const payload = {
 
-  'content': 'توكنك'
+  'content': 'سبامك'
 
 };
 
